@@ -16,6 +16,7 @@ Tv: 1201px para cima
 
     section#login {
         width: 80vw;
+        height: 265px;
     }
 
     section#login > div#imagem {
@@ -38,6 +39,7 @@ Tv: 1201px para cima
 
     section#login {
         width: 950px;
+        height: 320px;
     }
     
     section#login > div#imagem {
